@@ -2,7 +2,7 @@
   "project_info": {
     "project_number": "", //Removed for security
     "project_id": "", //Removed for security
-    "storage_bucket": "" ////Removed for security
+    "storage_bucket": "" //Removed for security
   },
   "client": [
     {
