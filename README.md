@@ -18,3 +18,5 @@ Tech Stack
   - RecyclerView Efficiently displays a list of events
   - ViewModel For managing UI-related data
   - Navigation Component – Handles fragment transitions
+
+![TicketFinder Login Screen]([http://url/to/img.png](https://imgur.com/a/E1MHQeG)) ![TicketFinder Search Screen]([http://url/to/img.png](https://imgur.com/a/u9mPubk)) ![TicketFinder Favorites Screen]([http://url/to/img.png](https://imgur.com/a/oPrFgdc))
