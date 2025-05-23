@@ -51,7 +51,7 @@ class HomeViewModel : ViewModel() {
 
         ticketMasterAPI.getEvents(
             eventType, city, "date,asc",
-            "dHOjMz5GqieAzjMk36gMqmV5qLy5tKws" // Your API key
+            "ApiKeyHere" //Removed for security
         ).enqueue(object : Callback<SiteData> {
             override fun onResponse(call: Call<SiteData>, response: Response<SiteData>) {
                 val body = response.body()
