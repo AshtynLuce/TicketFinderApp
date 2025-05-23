@@ -1,8 +1,8 @@
 {
   "project_info": {
-    "project_number": "224048902757",
-    "project_id": "final-project-2c14f",
-    "storage_bucket": "final-project-2c14f.firebasestorage.app"
+    "project_number": "", //Removed for security
+    "project_id": "", //Removed for security
+    "storage_bucket": "" ////Removed for security
   },
   "client": [
     {
