@@ -19,4 +19,4 @@ Tech Stack
   - ViewModel For managing UI-related data
   - Navigation Component – Handles fragment transitions
 
-![TicketFinder Login Screen]([https://imgur.com/a/E1MHQeG]) ![TicketFinder Search Screen](https://imgur.com/a/u9mPubk) ![TicketFinder Favorites Screen](https://imgur.com/gallery/ticketfinder-favorites-oPrFgdc)
+![TicketFinder Login Screen]([https://imgur.com/a/E1MHQeG]) ![TicketFinder Search Screen](https://i.imgur.com/3ec7WpC.png) ![TicketFinder Favorites Screen](https://imgur.com/gallery/ticketfinder-favorites-oPrFgdc)
