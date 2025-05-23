@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDjfOh9DeVTsbBIkeUDnZXl82pMaHfcHOg"
+          "current_key": "" //Removed for security
         }
       ],
       "services": {
